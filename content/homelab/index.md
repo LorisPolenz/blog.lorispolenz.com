@@ -1,10 +1,9 @@
 +++
 title = "Building a homelab"
 date = 2023-10-28T19:44:15+02:00
-images = []
-tags = []
-categories = []
 draft = false
+toc = true
+tocBorder = true
 author= "Loris Polenz"
 +++
 *No GenAI was used for this article*

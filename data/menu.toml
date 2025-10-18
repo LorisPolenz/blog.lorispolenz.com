@@ -1,0 +1,19 @@
+[[entries]]
+title = "info"
+
+[[entries.entries]]
+title = "Blog built using Hugo hosted on Cloudflare Pages"
+
+[[entries.entries]]
+title = "GitHub Repo"
+url = "https://github.com/LorisPolenz/blog.lorispolenz.com"
+
+
+[[entries]]
+title = "posts"
+
+[entries.post_list]
+limit = 5
+show_more = true
+show_more_text = "See archive..."
+show_more_url = "posts"
