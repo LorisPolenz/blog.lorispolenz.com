@@ -1,0 +1,4 @@
+baseURL = 'https://blogs.lorispolenz.com/'
+languageCode = 'en-us'
+title = 'Blog @ Loris Polenz'
+theme = 'nostyleplease'
